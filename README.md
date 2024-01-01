@@ -2,7 +2,7 @@
 A curated list of Cosmos ecosystem links, focusing on the security aspect of it
 
 # Cosmos is awesome!
-Here's a link to two lists for "awesome Cosmos" - both of them are great, however they are focused on the Cosmos as a whole:
+Here's a link to two lists for "awesome Cosmos" - both of them are great, however they are focused on the Cosmos as a whole, and not on security per se:
 * https://github.com/cosmos/awesome-cosmos
 * https://github.com/MchainNetwork/cosmos-awesome
 
