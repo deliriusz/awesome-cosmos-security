@@ -15,6 +15,12 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 * [Audits](#audits)
 
 # Collection
+
+## Go (golang)
+* https://gobyexample.com/ - Go by example
+* http://golang50shad.es/ - GOtchas (LOL), golang traps
+* https://github.com/code-423n4/alpha-zetachain/blob/main/032/101-dev.md - Cosmos specific Go traps
+
 ## Tutorials
 * https://tutorials.cosmos.network/
 * https://blog.cosmos.network/demystifying-ethermint-de80f7992524
@@ -47,6 +53,7 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 * https://github.com/tendermint/spn - Starport Network built on Cosmos and Ignite
 * https://github.com/tendermint/interchange - exemplary blockchain built on Ignite
 * https://github.com/ignite - Swiss knife allowing for quick code beneration for Cosmos SDK blockchain
+* https://code4rena.com/audits/2023-11-zetachain - ZetaChain C4 audit competition. Full of Cosmos & Go alpha
 
 ## Firms performing Cosmos security reviews
 * Halborn
