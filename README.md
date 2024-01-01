@@ -7,6 +7,7 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 * https://github.com/MchainNetwork/cosmos-awesome
 
 # Table of contents
+* [Go (golang)](#go-golang)
 * [Tutorials](#tutorials)
 * [Interesting repos](#interesting-repos)
 * [Firms performing Cosmos security reviews](#firms-performing-cosmos-security-reviews)
