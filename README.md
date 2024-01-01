@@ -41,6 +41,7 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 * https://thenewstack.io/create-your-own-blockchain-at-interchain-developer-academy/
 * https://tokeninsight.com/en/tokenwiki/course/into-the-cosmos-the-most-vibrant-ecosystem-outside-of-ethereum
 * https://cosmology.tech/learn
+* https://www.youtube.com/playlist?list=PLE4J1RDdNh6uCAsgygfvmheQoGJCUkCgI - what is IBC
 
 ## Interesting repos
 * https://github.com/tendermint/spn - Starport Network built on Cosmos and Ignite
