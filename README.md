@@ -7,8 +7,6 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 * https://github.com/MchainNetwork/cosmos-awesome
 
 # Table of contents
-
-# Collection
 * [Tutorials](#tutorials)
 * [Interesting repos](#interesting-repos)
 * [Firms performing Cosmos security reviews](#firms-performing-cosmos-security-reviews)
@@ -16,7 +14,7 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 * [Security writeups](#security-writeups)
 * [Audits](#audits)
 
-
+# Collection
 ## Tutorials
 * https://tutorials.cosmos.network/
 * https://blog.cosmos.network/demystifying-ethermint-de80f7992524
