@@ -9,12 +9,45 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 # Table of contents
 
 # Collection
+* [Tutorials](#tutorials)
+* [Interesting repos](#interesting-repos)
+* [Firms performing Cosmos security reviews](#firms-performing-cosmos-security-reviews)
+* [Security tutorials](#security-tutorials)
+* [Security writeups](#security-writeups)
+* [Audits](#audits)
+
+
+## Tutorials
+* https://tutorials.cosmos.network/
+* https://blog.cosmos.network/demystifying-ethermint-de80f7992524
+* https://blog.cosmos.network/a-beginners-guide-to-ethermint-38ee15f8a6f4
+* https://hub.cosmos.network/main/hub-overview/overview.html
+* https://youtube.com/@CosmWasmDev?si=HmXWGUkRes_Z8Puz
+* building Cosmos chain tutorial: https://ida.interchain.io/ida-course/LPs/week-0/
+* https://docs.cosmos.network/v0.47/core/baseapp#state-updates
+* https://github.com/cosmos/gaia/blob/main/docs/gtm-interchain.md
+* https://zkvalidator.com/shared-security-in-cosmos/
+* https://academy.truts.xyz/resource/chain/Cosmos
+* https://cosmos-network.gitbooks.io/cosmos-academy/content/cosmos-for-developers/cosmos-sdk.html
+* https://forum.polkadot.network/t/what-are-some-differences-between-substrate-and-cosmos-sdk/1354
+* https://www.reddit.com/r/cosmosnetwork/comments/10smm2v/cosmos_vs_competitors_security_and_development/
+* https://moneymade.io/learn/article/polkadot-vs-cosmos
+* https://www.galaxy.com/research/whitepapers/exploring-the-cosmos/
+* https://docs.ethermint.zone/
+* https://youtube.com/@interchain_io
+* https://www.youtube.com/watch?v=cH-4Mq-S4BA - building with Ethermint
+* https://www.youtube.com/watch?v=VCLbS1Oks8A - etheremint v2
+* https://www.youtube.com/watch?v=Rws-QQ_qcfU - getting started with Ethermint
+* https://github.com/oak-security/resources/tree/main (search for "Cosm")
+* https://pt.slideshare.net/tendermint/cosmos-sdk-workshop-how-to-build-a-blockchain-from-scratch?next_slideshow=true
+* https://thenewstack.io/create-your-own-blockchain-at-interchain-developer-academy/
+* https://tokeninsight.com/en/tokenwiki/course/into-the-cosmos-the-most-vibrant-ecosystem-outside-of-ethereum
+* https://cosmology.tech/learn
 
 ## Interesting repos
 * https://github.com/tendermint/spn - Starport Network built on Cosmos and Ignite
 * https://github.com/tendermint/interchange - exemplary blockchain built on Ignite
 * https://github.com/ignite - Swiss knife allowing for quick code beneration for Cosmos SDK blockchain
-
 
 ## Firms performing Cosmos security reviews
 * Halborn
