@@ -56,6 +56,7 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 * https://github.com/tendermint/interchange - exemplary blockchain built on Ignite
 * https://github.com/ignite - Swiss knife allowing for quick code beneration for Cosmos SDK blockchain
 * https://code4rena.com/audits/2023-11-zetachain - ZetaChain C4 audit competition. Full of Cosmos & Go alpha
+* https://github.com/oak-security/resources - wealth of security resources from Oak security, including Cosmos security related topics
 
 ## Firms performing Cosmos security reviews
 * Halborn
