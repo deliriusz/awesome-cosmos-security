@@ -65,6 +65,7 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 * Trail of Bits
 
 ## Security tutorials
+* https://www.faulttolerant.xyz/2024-01-16-cosmos-security-1/
 * https://www.halborn.com/blog/post/cosmos-security-overview
 * https://www.zellic.io/blog/exploring-cosmos-a-security-primer/
 * https://stakely.io/en/blog/what-is-interchain-security-on-cosmos-and-how-it-works
