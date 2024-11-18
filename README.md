@@ -19,7 +19,7 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 
 ## Go (golang)
 * https://gobyexample.com/ - Go by example
-* http://golang50shad.es/ - GOtchas (LOL), golang traps
+* https://golang50shades.com/ - GOtchas (LOL), golang traps
 * https://github.com/code-423n4/alpha-zetachain/blob/main/032/101-dev.md - Cosmos specific Go traps
 
 ## Tutorials
