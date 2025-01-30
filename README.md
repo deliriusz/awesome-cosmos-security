@@ -103,8 +103,6 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 * https://github.com/oak-security/audit-reports/blob/master/Noble/2023-07-08%20Audit%20Report%20-%20Noble%20Tariff%20Module%20v1.0.pdf
 * https://github.com/oak-security/audit-reports/blob/master/MilkyWay/2023-12-12%20Audit%20Report%20-%20MilkyWay%20Staking%20v1.0.pdf
 * https://github.com/oak-security/audit-reports/blob/main/Persistence/2022-01-20%20Audit%20Report%20-%20Persistence%20Bridge%20-%20v1.0.pdf
-* https://github.com/oak-security/audit-reports/tree/main/All%20in%20Bits
-* https://github.com/oak-security/audit-reports/tree/main/Interchain%20Foundation
 * https://github.com/oak-security/audit-reports/tree/main/Stride
 * https://github.com/oak-security/audit-reports/tree/main/Comdex
 * https://github.com/oak-security/audit-reports/tree/main/Neutron
