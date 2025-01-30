@@ -119,5 +119,11 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 * https://github.com/oak-security/audit-reports/tree/main/Slide%20SDK
 * https://github.com/oak-security/audit-reports/tree/main/THORChain
 * https://github.com/oak-security/audit-reports/tree/main/DoraFactory
+* https://github.com/Zellic/publications/blob/master/Penumbra%20-%20Zellic%20Audit%20Report.pdf
+* https://github.com/Zellic/publications/blob/master/ZetaChain%20-%2011.14.23%20Zellic%20Audit%20Report.pdf
+* https://github.com/Zellic/publications/blob/master/Osmosis%20Authentication%20Abstraction%20-%20Zellic%20Audit%20Report.pdf
+* https://github.com/Zellic/publications/blob/master/Nibiru%20-%20Zellic%20Audit%20Report.pdf
+* https://github.com/Zellic/publications/blob/18a2471dc65cf1c017c101d116118d41b199d947/Cosmos%20SDK%20Sign%20Mode%20Textual%20-%20Zellic%20Audit%20Report.pdf
+* https://github.com/Zellic/publications/blob/master/Pyth%20Network%20CosmWasm%20-%20Zellic%20Audit%20Report.pdf
 * (CosmWasm) - https://static.levana.finance/audit-reports/levana-perps-peckshield-v1.0.pdf
 * (CosmWasm) - https://static.levana.finance/audit-reports/levana-perps-fyeo-v1.1.pdf
