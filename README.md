@@ -102,5 +102,28 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 * https://github.com/trailofbits/publications/blob/master/reviews/Umee.pdf
 * https://github.com/oak-security/audit-reports/blob/master/Noble/2023-07-08%20Audit%20Report%20-%20Noble%20Tariff%20Module%20v1.0.pdf
 * https://github.com/oak-security/audit-reports/blob/master/MilkyWay/2023-12-12%20Audit%20Report%20-%20MilkyWay%20Staking%20v1.0.pdf
+* https://github.com/oak-security/audit-reports/blob/main/Persistence/2022-01-20%20Audit%20Report%20-%20Persistence%20Bridge%20-%20v1.0.pdf
+* https://github.com/oak-security/audit-reports/tree/main/Stride
+* https://github.com/oak-security/audit-reports/tree/main/Comdex
+* https://github.com/oak-security/audit-reports/tree/main/Neutron
+* https://github.com/oak-security/audit-reports/tree/main/Nolus
+* https://github.com/oak-security/audit-reports/tree/main/Injective
+* https://github.com/oak-security/audit-reports/tree/main/Noble
+* https://github.com/oak-security/audit-reports/tree/main/Lum%20Network
+* https://github.com/oak-security/audit-reports/tree/main/Sei
+* https://github.com/oak-security/audit-reports/tree/main/Archway
+* https://github.com/oak-security/audit-reports/tree/main/Evmos
+* https://github.com/oak-security/audit-reports/tree/main/Skip
+* https://github.com/oak-security/audit-reports/tree/main/Fairblock
+* https://github.com/oak-security/audit-reports/tree/main/Dymension
+* https://github.com/oak-security/audit-reports/tree/main/Slide%20SDK
+* https://github.com/oak-security/audit-reports/tree/main/THORChain
+* https://github.com/oak-security/audit-reports/tree/main/DoraFactory
+* https://github.com/Zellic/publications/blob/master/Penumbra%20-%20Zellic%20Audit%20Report.pdf
+* https://github.com/Zellic/publications/blob/master/ZetaChain%20-%2011.14.23%20Zellic%20Audit%20Report.pdf
+* https://github.com/Zellic/publications/blob/master/Osmosis%20Authentication%20Abstraction%20-%20Zellic%20Audit%20Report.pdf
+* https://github.com/Zellic/publications/blob/master/Nibiru%20-%20Zellic%20Audit%20Report.pdf
+* https://github.com/Zellic/publications/blob/18a2471dc65cf1c017c101d116118d41b199d947/Cosmos%20SDK%20Sign%20Mode%20Textual%20-%20Zellic%20Audit%20Report.pdf
+* https://github.com/Zellic/publications/blob/master/Pyth%20Network%20CosmWasm%20-%20Zellic%20Audit%20Report.pdf
 * (CosmWasm) - https://static.levana.finance/audit-reports/levana-perps-peckshield-v1.0.pdf
 * (CosmWasm) - https://static.levana.finance/audit-reports/levana-perps-fyeo-v1.1.pdf
