@@ -1,5 +1,5 @@
 # Awesome Cosmos Security
-A curated list of Cosmos ecosystem links, focusing on the security aspect of it
+A curated list of Cosmos ecosystem links, focusing on the security aspect of it.
 
 # Cosmos is awesome!
 Here's a link to two lists for "awesome Cosmos" - both of them are great, however they are focused on the Cosmos as a whole, and not on security per se:
@@ -90,6 +90,7 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 * https://github.com/althea-net/cosmos-gravity-bridge/issues/347
 * https://giters.com/althea-net/cosmos-gravity-bridge/issues/348
 * https://rekt.news/levana-rekt
+* https://www.gate.io/learn/articles/cosmos-ecosystem-security-guide-analyzing-security-challenges-in-different-components/1628
 
 ## Audits
 * https://github.com/astroport-fi/astroport-audits
