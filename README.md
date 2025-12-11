@@ -76,6 +76,7 @@ Here's a link to two lists for "awesome Cosmos" - both of them are great, howeve
 * https://www.coinbase.com/pl/cloud/discover/insights-analysis/all-you-need-to-know-about-interchain-security
 * https://blog.trailofbits.com/2024/02/05/improving-the-state-of-cosmos-fuzzing/
 * https://osec.io/blog/2025-06-10-cosmos-security
+* https://medium.com/@jorgecastillot2017/cosmos-unmasked-a-security-guide-to-review-cosmos-application-cfc9efbdd205
 
 ## Security writeups
 * https://jumpcrypto.com/writing/
